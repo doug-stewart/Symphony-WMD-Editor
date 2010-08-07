@@ -8,8 +8,8 @@
 		public function about() {
 			return array(
 				'name'			=> 'WMD Editor',
-				'version'		=> '1.0.3',
-				'release-date'	=> '2010-05-23',
+				'version'		=> '1.0.4',
+				'release-date'	=> '2010-08-07',
 				'author'		=> array(
 					'name' => 'Doug Stewart',
 					'website' => 'http://www.designbyadmiral.com',

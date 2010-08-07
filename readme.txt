@@ -1,16 +1,16 @@
 WMD Editor
 -------------------------------------------------------------------------------
 
-Version: 1.0.3
+Version: 1.0.4
 Author: Doug Stewart <doug@designbyadmiral.com>
-Build Date: 23 May 2010
-Requirements: Symphony 2
+Build Date: 07 August 2010
+Requirements: Symphony 2, Markdown Extension
 
 
 Installation
 -------------------------------------------------------------------------------
 
-1.	Upload the 'wmdeditor' folder in this archive to your Symphony
+1.	Upload the 'Symphony-WMD-Editor' folder in this archive to your Symphony
 	'extensions' folder.
 
 2.	Enable it by selecting the "WMD Editor", choose Enable from the
