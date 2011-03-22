@@ -1,3 +1,5 @@
+**This extension is no longer under active development. Head to the Symphony community (http://symphony-cms.com/discuss/) where others can suggest an alternative.**
+
 WMD Editor
 -------------------------------------------------------------------------------
 
